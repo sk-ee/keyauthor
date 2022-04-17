@@ -2,9 +2,10 @@
 
 ![Discord](https://img.shields.io/discord/707159843751854141)
 
+
 Database currently contains:
 
-- Artists : 181
+- ![Element](https://img.shields.io/badge/Artisans-181-bfff00)
 - Sculpts : 1856
 - Colorways : 38005
 
