@@ -1,2 +1,5 @@
 .github/workflows/* @zekth
-CODEOWNERS @zekth
+ORIGINAL CODEOWNERS @zekth
+
+.github/workflows/* @s-kee
+ADAPTION ON CODE @s-kee
